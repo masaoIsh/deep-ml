@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T09:49:53.989Z",
+  "generated_at": "2026-10-01T05:08:29.263Z",
   "items": {
     "problem:1022": {
       "kind": "problem",
@@ -63,6 +63,110 @@
       "last_pushed_at": "2026-09-30T09:49:53.058Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2025-12-23T07:49:14.909Z",
+      "last_pushed_at": "2025-12-23T07:49:14.909Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2025-12-23T08:33:44.258Z",
+      "last_pushed_at": "2025-12-23T08:33:44.258Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2025-12-23T09:41:38.859Z",
+      "last_pushed_at": "2025-12-23T09:41:38.859Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2025-12-23T11:24:35.011Z",
+      "last_pushed_at": "2025-12-23T11:24:35.011Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2025-12-23T11:50:05.204Z",
+      "last_pushed_at": "2025-12-23T11:50:05.204Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2025-12-23T11:57:41.268Z",
+      "last_pushed_at": "2025-12-23T11:57:41.268Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2025-12-23T12:01:09.191Z",
+      "last_pushed_at": "2025-12-23T12:01:09.191Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2025-12-23T14:59:16.612Z",
+      "last_pushed_at": "2025-12-23T14:59:16.612Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
