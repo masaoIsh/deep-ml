@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T05:08:29.263Z",
+  "generated_at": "2026-10-01T05:08:31.631Z",
   "items": {
     "problem:1022": {
       "kind": "problem",
@@ -167,6 +167,45 @@
       "last_pushed_at": "2025-12-23T14:59:16.612Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2025-12-24T07:24:45.222Z",
+      "last_pushed_at": "2025-12-24T07:24:45.222Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2025-12-24T07:33:04.130Z",
+      "last_pushed_at": "2025-12-24T07:33:04.130Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2025-12-24T08:00:43.533Z",
+      "last_pushed_at": "2025-12-24T08:00:43.533Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }

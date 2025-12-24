@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 12 problems · 0 labs · 1 math
+**16** solved · 15 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,8 +12,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2025-12-24 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2025-12-23 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2025-12-23 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
+| [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2025-12-24 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2025-12-23 | [solution](problems/0083-dot-product-calculator) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-09-26 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-09-23 | [solution](problems/1022-l2-normalization-along-an-axis) |
@@ -23,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-12-23 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2025-12-23 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-12-23 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2025-12-24 | [solution](problems/0121-vector-element-wise-sum) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-09-30 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 
 ## Math
