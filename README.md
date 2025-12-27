@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**18** solved · 17 problems · 0 labs · 1 math
+**19** solved · 18 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-12-23 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2025-12-24 | [solution](problems/0121-vector-element-wise-sum) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-09-30 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
+| [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-12-27 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 
 ## Math
 
