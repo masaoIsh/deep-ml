@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T05:08:38.718Z",
+  "generated_at": "2026-10-01T05:08:40.523Z",
   "items": {
     "problem:1022": {
       "kind": "problem",
@@ -258,6 +258,32 @@
       "last_pushed_at": "2025-12-28T10:32:02.624Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2025-12-29T02:54:03.846Z",
+      "last_pushed_at": "2025-12-29T02:54:03.846Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2025-12-29T14:47:02.429Z",
+      "last_pushed_at": "2025-12-29T14:47:02.429Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**20** solved · 19 problems · 0 labs · 1 math
+**22** solved · 21 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,12 +21,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2025-12-28 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2025-12-26 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-09-26 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
+| [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2025-12-29 | [solution](problems/0042-implement-relu-activation-function) |
 | [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-09-23 | [solution](problems/1022-l2-normalization-along-an-axis) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-12-23 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Pairwise Cosine Similarity Matrix](https://www.deep-ml.com/problems/1072) | easy | 2026-09-24 | [solution](problems/1072-pairwise-cosine-similarity-matrix) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2025-12-23 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-12-23 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2025-12-23 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+| [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2025-12-29 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-12-23 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2025-12-24 | [solution](problems/0121-vector-element-wise-sum) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-09-30 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
