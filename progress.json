@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T05:09:02.782Z",
+  "generated_at": "2026-10-01T05:09:04.681Z",
   "items": {
     "problem:1022": {
       "kind": "problem",
@@ -440,6 +440,19 @@
       "last_pushed_at": "2026-01-10T06:38:40.213Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:167": {
+      "kind": "problem",
+      "id": "167",
+      "title": "Calculate the Discounted Return for a Given Trajectory",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/167",
+      "path": "problems/0167-calculate-the-discounted-return-for-a-given-trajectory",
+      "first_solved_at": "2026-01-11T04:11:02.457Z",
+      "last_pushed_at": "2026-01-11T04:11:02.457Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }

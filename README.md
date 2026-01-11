@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**34** solved · 33 problems · 0 labs · 1 math
+**35** solved · 34 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-12-25 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-01-05 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-01-07 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
+| [Calculate the Discounted Return for a Given Trajectory](https://www.deep-ml.com/problems/167) | easy | 2026-01-11 | [solution](problems/0167-calculate-the-discounted-return-for-a-given-trajectory) |
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2026-01-10 | [solution](problems/0165-compute-discounted-return) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2025-12-23 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2025-12-24 | [solution](problems/0078-descriptive-statistics-calculator) |
