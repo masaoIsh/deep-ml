@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**35** solved · 34 problems · 0 labs · 1 math
+**36** solved · 35 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2025-12-24 | [solution](problems/0121-vector-element-wise-sum) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-01-02 | [solution](problems/0079-binomial-distribution-probability) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-09-30 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
+| [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-01-12 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-12-27 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 
 ## Math
