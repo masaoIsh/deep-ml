@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**40** solved · 39 problems · 0 labs · 1 math
+**42** solved · 41 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate the Discounted Return for a Given Trajectory](https://www.deep-ml.com/problems/167) | easy | 2026-01-11 | [solution](problems/0167-calculate-the-discounted-return-for-a-given-trajectory) |
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2026-01-10 | [solution](problems/0165-compute-discounted-return) |
 | [Compute Temporal Difference Error](https://www.deep-ml.com/problems/257) | easy | 2026-01-14 | [solution](problems/0257-compute-temporal-difference-error) |
+| [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-01-17 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2025-12-23 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2025-12-24 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2025-12-23 | [solution](problems/0083-dot-product-calculator) |
@@ -50,6 +51,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-01-02 | [solution](problems/0079-binomial-distribution-probability) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-09-30 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-01-12 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
+| [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-01-17 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-12-27 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 
 ## Math

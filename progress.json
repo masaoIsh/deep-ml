@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T05:09:14.357Z",
+  "generated_at": "2026-10-01T05:09:16.120Z",
   "items": {
     "problem:1022": {
       "kind": "problem",
@@ -518,6 +518,32 @@
       "last_pushed_at": "2026-01-16T01:26:21.576Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:48": {
+      "kind": "problem",
+      "id": "48",
+      "title": "Implement Reduced Row Echelon Form (RREF) Function",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/48",
+      "path": "problems/0048-implement-reduced-row-echelon-form-rref-function",
+      "first_solved_at": "2026-01-17T03:13:57.657Z",
+      "last_pushed_at": "2026-01-17T03:13:57.657Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2026-01-17T23:07:27.597Z",
+      "last_pushed_at": "2026-01-17T23:07:27.597Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
