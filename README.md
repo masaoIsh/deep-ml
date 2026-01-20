@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**43** solved · 42 problems · 0 labs · 1 math
+**45** solved · 44 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -53,6 +53,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-09-30 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-01-12 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-01-17 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
+| [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-01-20 | [solution](problems/0009-matrix-times-matrix) |
+| [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-01-20 | [solution](problems/0007-matrix-transformation) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-12-27 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 
 ## Math
