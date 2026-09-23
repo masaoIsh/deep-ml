@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-09-23T15:50:10.416Z",
+  "items": {
+    "problem:1022": {
+      "kind": "problem",
+      "id": "1022",
+      "title": "L2 Normalization Along an Axis",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1022",
+      "path": "problems/1022-l2-normalization-along-an-axis",
+      "first_solved_at": "2026-09-23T15:50:07.069Z",
+      "last_pushed_at": "2026-09-23T15:50:07.069Z",
+      "language": "python",
+      "lines": 19
+    }
+  }
+}
